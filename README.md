@@ -1,11 +1,3 @@
-# GuJi_AI_Tools
-  The working tools of Chinese ancient works.
-  1. Automatic Punctuation
-  2. Automatic Annotation
-  3. Automatic Phoneticize
-  4. Portrait Recognition
-  5. Statue Recognition
-  6. Stone Inscription Recognition
-  7. Sutra Chanting Recognition
-  8. FaQi Recognition
+# ZJB_AI_Group
+  The artificial intelligence group is Working on the research and development of AI based tools for assisting new type of digital Buddhist cannan. mainly includes：Automatic Punctuation，Automatic Annotation，Automatic Phoneticize，Portrait Recognition，Statue Recognition，Stone Inscription Recognition，Sutra Chanting Recognition，FaQi Recognition and so on.
   
